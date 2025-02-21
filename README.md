@@ -6,9 +6,9 @@
 
 <h3 style="color: green;">༺ Thông tin nhóm ༻</h3> 
 
-- [ 21120072 ] - Nguyễn Xuân Hòa (**BA**)
+- [ 21120072 ] - Nguyễn Xuân Hòa (**DEV**)
 - [ 21120088 ] - Nguyễn Nhật Khoa (**DEV**)
-- [ 21120108 ] - Nguyễn Tiến Nhật (**DEV**)
+- [ 21120108 ] - Nguyễn Tiến Nhật (**BA**)
 - [ 21120183 ] - Trần Anh Tài (**C**)
 - [ 21120187 ] - Nguyễn Hà Hoàng Tuấn (**TESTER**)
 
